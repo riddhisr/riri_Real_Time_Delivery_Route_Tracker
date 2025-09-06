@@ -1,0 +1,41 @@
+parcel_id,customer_name,phone,address,city,lat,lon,status,driver_id
+M001,Asha Patel,919820187478,Bandra West,Mumbai,19.0544,72.84,in_transit,driver_001
+M002,Rahul Mehta,919812345678,Khar West,Mumbai,19.0671,72.8331,in_transit,driver_001
+M003,Sneha Rao,919823456789,Andheri West,Mumbai,19.1197,72.8468,delivered,driver_001
+M004,Vikram Singh,919834567890,Worli Sea Face,Mumbai,18.9946,72.8156,delivered,driver_001
+M005,Meera Kulkarni,919845678901,Lower Parel,Mumbai,19.0032,72.8424,warehouse,driver_001
+M006,Arjun Desai,919856789012,Dadar East,Mumbai,19.0176,72.8507,in_transit,driver_001
+M007,Neha Sharma,919867890123,Matunga,Mumbai,19.0269,72.85,in_transit,driver_002
+M008,Karan Joshi,919878901234,Churchgate,Mumbai,18.9358,72.8275,delivered,driver_002
+M009,Pooja Nair,919889012345,Colaba,Mumbai,18.9218,72.8339,delivered,driver_002
+M010,Sameer Khan,919890123456,Cuffe Parade,Mumbai,18.9076,72.8147,warehouse,driver_002
+M011,Rita Fernandes,919801234567,Fort,Mumbai,18.932,72.835,warehouse,driver_002
+M012,Anil Kapoor,919812345679,Mahim,Mumbai,19.042,72.84,in_transit,driver_002
+M013,Divya Reddy,919823456780,Sion,Mumbai,19.0424,72.8592,delivered,driver_003
+M014,Manish Gupta,919834567891,Chembur,Mumbai,19.0487,72.9059,in_transit,driver_003
+M015,Lata Joshi,919845678902,Powai,Mumbai,19.119,72.905,warehouse,driver_003
+N001,Sanjay Verma,919856789013,Vashi,Navi Mumbai,19.0771,73.0007,delivered,driver_003
+N002,Priya Nair,919867890124,Nerul East,Navi Mumbai,19.033,73.018,in_transit,driver_003
+N003,Mohit Agarwal,919878901235,Belapur,Navi Mumbai,19.019,73.0433,warehouse,driver_001
+N004,Sakshi Dixit,919889012346,Kharghar Sector 7,Navi Mumbai,19.034,73.0631,in_transit,driver_001
+N005,Rohit Sharma,919890123457,Seawoods,Navi Mumbai,19.0029,73.0169,delivered,driver_001
+N006,Gayatri Iyer,919801234568,Panvel,Navi Mumbai,18.9894,73.1175,warehouse,driver_001
+N007,Amitabh Roy,919812345670,Turbhe,Navi Mumbai,19.0896,73.0172,in_transit,driver_002
+N008,Zoya Khan,919823456781,Airoli,Navi Mumbai,19.1592,72.9997,delivered,driver_002
+N009,Kabir Khan,919834567892,Ghansoli,Navi Mumbai,19.134,73.001,warehouse,driver_002
+N010,Neelam Shah,919845678903,Kopar Khairane,Navi Mumbai,19.103,73.009,warehouse,driver_002
+N011,Tarun Patel,919856789014,Sanpada,Navi Mumbai,19.065,73.009,delivered,driver_003
+N012,Ishita Bose,919867890125,Juinagar,Navi Mumbai,19.054,73.017,in_transit,driver_003
+N013,Vivek Anand,919878901236,Nerul West,Navi Mumbai,19.033,73.011,warehouse,driver_003
+N014,Rhea Kapoor,919889012347,Ulwe,Navi Mumbai,18.98,73.05,delivered,driver_003
+N015,Aditya Singh,919890123458,Kamothe,Navi Mumbai,19.007,73.092,in_transit,driver_003
+M016,Nikhil Agarwal,919801234569,Borivali West,Mumbai,19.229,72.857,warehouse,driver_001
+M017,Deepa Shah,919812345671,Kandivali East,Mumbai,19.2047,72.8654,delivered,driver_001
+M018,Ravi Shetty,919823456782,Malad West,Mumbai,19.189,72.842,in_transit,driver_001
+M019,Priya Iyer,919834567893,Goregaon East,Mumbai,19.164,72.849,warehouse,driver_001
+M020,Harshad Gupta,919845678904,Vile Parle,Mumbai,19.1,72.844,delivered,driver_002
+M021,Swati Kulkarni,919856789015,Jogeshwari,Mumbai,19.135,72.845,warehouse,driver_002
+M022,Sunil More,919867890126,Santacruz East,Mumbai,19.08,72.85,in_transit,driver_002
+M023,Ananya Joshi,919878901237,Kurla,Mumbai,19.071,72.879,warehouse,driver_002
+M024,Anya Kharbanda,919889012348,Ghatkopar,Mumbai,19.085,72.91,delivered,driver_003
+M025,Riddhi Singh,919890123459,Bhandup,Mumbai,19.15,72.933,in_transit,driver_003

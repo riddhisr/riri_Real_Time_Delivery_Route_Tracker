@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Streamlit / caches
+.streamlit/
+*.db
+
+# Data / secret files
+.env
+parcels_demo.csv
+
+# Mac
+.DS_Store
